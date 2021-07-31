@@ -35,6 +35,7 @@ menu {
     margin: 0;
     top: 0;
     left: -300px;
+    box-sizing: border-box;
     padding: 0;
     transition-property: left;
     transition-duration: 1s;
